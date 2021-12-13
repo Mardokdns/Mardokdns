@@ -11,4 +11,3 @@
 <a href="https://github.com/MardokstacksTCP%22%3E"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MardokstacksTCP&include-all-commits=true&count-private=true&show-icons=true&theme=github_dark&locale=pt-br"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokstacksTCP&count_private=true&show_icons=true&theme=github_dark&locale=pt-br"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MardokstacksTCP&count_private=true&show_icons=true&theme=github_dark&locale=pt-br"/>
