@@ -33,7 +33,6 @@
 <details>
   <summary>Formas de Contato</summary>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white"/>
 </details>
 
 <a href="https://github.com/MardokSec%22%3E"/>
