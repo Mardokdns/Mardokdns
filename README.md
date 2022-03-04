@@ -15,26 +15,26 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </details>
 
 <details>
   <summary>Frameworks</summary>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=darkgreen"/>
 </details>
 
 <details>
   <summary>Sistemas Operacionais</summary>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=darkblue"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=darkblue"/>
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=green"/>
 </details>
 
 <details>
   <summary>Formas de Contato</summary>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=blue"/>
 </details>
 
 <a href="https://github.com/MardokSecurity%22%3E"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MardokSecurity&include-all-commits=true&count-private=true&show-icons=true&theme=github_dark&locale=pt-br"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokSecurity&count_private=true&show_icons=true&theme=github_dark&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MardokSecurity&include-all-commits=true&count-private=true&show-icons=true&theme=radical&locale=pt-br"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokSecurity&count_private=true&show_icons=true&theme=radical&locale=pt-br"/></br>
