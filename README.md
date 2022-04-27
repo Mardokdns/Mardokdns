@@ -35,6 +35,6 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=blue"/>
 </details>
 
-<a href="https://github.com/MardokSecurity%22%3E"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MardokSecurity&include-all-commits=true&count-private=true&show-icons=true&theme=radical&locale=pt-br"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokSecurity&count_private=true&show_icons=true&theme=radical&locale=pt-br"/></br>
+<a href="https://github.com/MardokDev%22%3E"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MardokDev&include-all-commits=true&count-private=true&show-icons=true&theme=radical&locale=pt-br"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokDev&count_private=true&show_icons=true&theme=radical&locale=pt-br"/></br>
