@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MardokSecurity&label=Profile%20views&color=c111e4&style=flat-square" alt="mardok" /> </p>
 
-<h4 style="font-family: monospace">Olá! Meu nickname é Mardok! Sou estudante de Segurança da Informação (Offensive Security) e Programação, comecei estudos sobre T.I em março de 2021.</h4>
+<h4 style="font-family: monospace">Olá! Meu nickname é Mardok! Sou estudante de Segurança da Informação e Programação, comecei estudos sobre T.I em março de 2021.</h4>
 
 <details>
   <summary>Ferramentas</summary>
