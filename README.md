@@ -16,5 +16,5 @@
 </div><br>
   
 <a href="https://github.com/MardokStain"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MardokStain&include-all-commits=true&count-private=true&show-icons=true&theme=radical&locale=pt-br"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokStain&count_private=true&show_icons=true&theme=radical&locale=pt-br"/></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MardokStain&include-all-commits=true&count-private=true&show-icons=true&theme=dark&locale=pt-br"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokStain&count_private=true&show_icons=true&theme=dark&locale=pt-br"/></br>
