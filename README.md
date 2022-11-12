@@ -1,20 +1,16 @@
-### Olá! @MardokSecurity aqui!
+<h1 align="center">Bem vindo ao meu mundo!<br><br>Olá! Eu sou Mardok.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MardokSecurity&label=Profile%20views&color=c111e4&style=flat-square" alt="mardok" /> </p>
+* Developer
+* Ethical Hacking Student
+* Networker
 
-<h3 style="font-family: Liberation Mono" align="center">Estudante de Segurança da Informação e Programador.<h3>
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dark-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Dark-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Dark-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Debian-Distribution" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SSH" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg">
-  <img align="center" alt="SocketIO" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg">
-</div><br>
-  
-<a href="https://github.com/MardokStain"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MardokStain&include-all-commits=true&count-private=true&show-icons=true&theme=dark&locale=pt-br"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokStain&count_private=true&show_icons=true&theme=dark&locale=pt-br"/></br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MardokStain&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"><br>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardokStain&title_color=fff&text_color=fff&bg_color=0,000,141321"> 
+</p>
