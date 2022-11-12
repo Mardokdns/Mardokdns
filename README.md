@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu mundo!<br><br>Olá! Eu sou Mardok.</h1>
+<h1 align="center">Welcome to my world!<br><br>Hi! I'm Mardok.</h1>
 
 * Developer
 * Ethical Hacking Student
