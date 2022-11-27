@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my world!<br><br>Hi! I'm Mardok.</h1>
 
 * Developer
-* Ethical Hacking Student
-* Networker
+* Offensive Security
+* Reverse Engineering Student
 
 [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
