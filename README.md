@@ -4,11 +4,11 @@
 * Offensive Security
 * Reverse Engineering Student
 
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MardokStain&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=fff&bg_color=0,000,141321"><br>
