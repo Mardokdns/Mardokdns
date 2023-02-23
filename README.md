@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my world!<br><br>Hi! I'm Mardok.</h1>
+<h1 align="center">Welcome to my world!</h1>
 
 ```
 * Developer
