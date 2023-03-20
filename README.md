@@ -2,8 +2,6 @@
 
 ```
 * Developer
-* Offensive Security
-* Reverse Engineering Student
 ```
 
 <div style="display: inline_block"><br>
