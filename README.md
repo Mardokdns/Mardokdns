@@ -5,7 +5,7 @@
 ```
 
 <div style="display: inline_block"><br>
-  <img src="https://skills.thijs.gg/icons?i=js,php,nodejs,java,mysql,mongodb,express,typescript">
+  <img src="https://skills.thijs.gg/icons?i=js,php,nodejs,java,mysql,mongodb,express,typescript,linux">
 </div>
 
 <p align="center">
