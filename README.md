@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my world!</h1>
 
 ```
-* Java & JavaScript, TypeScript & Python
+* Back-End Developer
 ```
 
 <div style="display: inline_block"><br>
