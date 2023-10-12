@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my world!</h1>
 
-```
+`
 * Back-End Developer
 * Tools & Exploits Developer
-```
+`
 
 <div style="display: inline_block"><br>
   <img src="https://skills.thijs.gg/icons?i=js,php,nodejs,java,python,mysql,mongodb,express,typescript,linux">
