@@ -8,7 +8,7 @@ Tools:
   IntelliJ IDEA & Visual Studio Code
 
 Learn:
-  C & Linux
+  C
 ```
 
 <div style="display: inline_block"><br>
