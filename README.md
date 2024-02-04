@@ -1,8 +1,16 @@
 <h1 align="center">Welcome to my world!</h1>
 
 ```
-* Back-End Developer
-* Tools & Exploits Developer
+Technologies:
+  JavaScript
+  Python
+  Java
+  MySQL
+  MongoDB
+
+Tools:
+  IntelliJ IDEA
+  Visual Studio Code
 ```
 
 <div style="display: inline_block"><br>
