@@ -2,15 +2,13 @@
 
 ```
 Technologies:
-  JavaScript
-  Python
-  Java
-  MySQL
-  MongoDB
+  JavaScript, Python, Java, MySQL & MongoDB
 
 Tools:
-  IntelliJ IDEA
-  Visual Studio Code
+  IntelliJ IDEA & Visual Studio Code
+
+Learn:
+  C & Linux
 ```
 
 <div style="display: inline_block"><br>
