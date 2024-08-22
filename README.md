@@ -6,9 +6,6 @@ Technologies:
 
 Tools:
   IntelliJ IDEA & Visual Studio Code
-
-Learn:
-  C
 ```
 
 <p align="center">
