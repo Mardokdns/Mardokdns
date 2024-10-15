@@ -6,6 +6,9 @@ Technologies:
 
 Tools:
   IntelliJ IDEA & Visual Studio Code
+
+Learning:
+  ReactJS & NextJS
 ```
 
 <p align="center">
